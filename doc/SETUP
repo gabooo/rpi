@@ -1,0 +1,22 @@
+Let's start using the new Pi!
+
+I've also bought a case for my Pi, so after unpacking everything, I assembled the case and the board. It's a relatively easy action, but be aware of apply very big force as cheap cases can be broken easily. 
+
+
+Before turnining on the Pi, you have to make the SD card ready. I've used my Windows 8 tablet and a card reader to prepare the SD card. On the homepage of the project, you can find a very straightforward description about the process, however, it can be done without it as well.
+
+	1. Download the image of Pidora.
+	2. Download the installer (http://fedoraproject.org/wiki/Fedora_ARM_Installer)
+	3. Use the installer to copy and install the files on the SD card.
+
+You are almost ready to power up your new Pi. Just plug the SD card into the hardware, connect it to a display (via HDMI port, as setup will use this as default), attach a keyboard (I've used a wireless Logitech keyboard without any problem) and a mouse if you want. And one more thing to do before the fire up, plug in an ethernet cable to be able to reach the internet (connection will be used to determine the current time, etc.).
+
+If you are ready with everything, turn on your diplay and plug your Pi into a power source (I've used my odl telephone charger). 
+
+After a few moments, you should see the boot process of the Pi.
+
+Follow the instructions of the setup, it's very straighforward. Maybe one thing you should be aware. If you want to experince the real Pi feeling, you should definitely set the terminal login option. As I've used Windows all my life, my main purpose was to get in touch with the Linux/Unix and there are some really cool stuff, which you can only do from command line.
+
+Congratulations, your new Pi is ready to go!
+
+
